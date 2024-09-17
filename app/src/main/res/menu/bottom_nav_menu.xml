@@ -4,9 +4,9 @@
     <item
         android:id="@+id/listFragment"
         android:icon="@drawable/coffee"
-        android:title="Coffee" />
+        android:title="@string/bottom_menu_coffee" />
     <item
         android:id="@+id/cafeFragment"
         android:icon="@drawable/cafe"
-        android:title="Cafe"/>
+        android:title="@string/bottom_menu_cafe"/>
 </menu>

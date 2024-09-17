@@ -7,17 +7,9 @@ import android.view.View
 import android.view.ViewGroup
 import android.widget.TextView
 
-// TODO: Rename parameter arguments, choose names that match
-// the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
 private const val TAB_CONTENT = "TAB_CONTENT"
 
-/**
- * A simple [Fragment] subclass.
- * Use the [CafeDetailFragment.newInstance] factory method to
- * create an instance of this fragment.
- */
 class CafeDetailFragment : Fragment() {
-    // TODO: Rename and change types of parameters
     private var content: String? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
