@@ -59,7 +59,7 @@ class DetailFragment : Fragment() {
     }
 
     companion object {
-        const val COFFEE_ID = "coffee_id"
+        private const val COFFEE_ID = "coffee_id"
         /**
          * Use this factory method to create a new instance of
          * this fragment using the provided parameters.
